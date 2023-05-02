@@ -1,0 +1,9 @@
+.notes-container {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid;
+  gap: 10px;
+  justify-content: center;
+  height: fit-content;
+  padding: 20px;
+}
